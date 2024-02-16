@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - JumpSound
+  - FuelCollectSound
+  - Hero
+  - PauseBackground
+  - PauseIcon
+  - PlayIcon
+  - PauseUI
+  - BulletHitSound
+  - Prefab2
+  - LaserDamageSound
+  - Prefab3
+  - CameraFollower
+  - Prefab1
+  - HeroScreamSound
+  - Prefab1_GunBullet
+  - Prefab2_GunBullet
+  - Prefab3_GunBullet
+  - Prefab1_WeaponMount
+  - Prefab2_WeaponMount
+  - Prefab3_WeaponMount
+  - Prefab1_WeaponLight
+  - Prefab2_WeaponLight
+  - Prefab3_WeaponLight
+  - Prefab1_WeaponCharge
+  - Prefab2_WeaponCharge
+  - Prefab3_WeaponCharge
+  - Prefab1_WeaponFire
+  - Prefab2_WeaponFire
+  - Prefab3_WeaponFire
+  - Prefab1_Laser
+  - FuelDestroySound
+  - Prefab3_Laser
+  - Prefab2_Laser
+  - Prefab1_FuelCan
+  - Prefab3_FuelCan
+  - Prefab2_FuelCan
+  - LaserShotSound
+  - Random
+  - Random2
+  - Random3
+  - Prefab3_WeaponPlate
+  - Sensor3
+  - RndSensor3
+  - RndSensor2
+  - Sensor2
+  - Prefab2_WeaponPlate
+  - RndSensor1
+  - GunSensor1
+  - GunSensor3
+  - Sensor1
+  - GunSensor2
+  - Prefab1_WeaponPlate
+  - BulletWall1
+  - BulletWall2
+  - BulletWall3
+  - CrateFuel1
+  - CrateFuel2
+  - CrateFuel3
+  - CrateLive1
+  - CrateLive2
+  - CrateLive3
+  - CratePoint1
+  - CratePoint2
+  - CratePoint3
+  - CrateSecretKey1
+  - CrateSecretKey2
+  - CrateSecretKey3
+  - RespawnSound
+  - BtnBackMenu
+  - CrateLiveSound
+  - BtnSecretLevel
+  - DisplayKey
+  - CratePointSound
+  - CrateSecretKeySound
+  - BtnSecretLvl
+  - BtnDev
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3037456379
+    locked: 0
+  - name: Level
+    uniqueID: 2232205481
+    locked: 0
+  - name: Character
+    uniqueID: 1084420505
+    locked: 0
+  - name: Foreground
+    uniqueID: 1681844243
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
