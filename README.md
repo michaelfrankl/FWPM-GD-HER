@@ -5,7 +5,8 @@
 ## First Assignment and first game (FWPM - Game Development WiSe23/24 @ OTH Regensburg)
 ## Teacher/Lecturer: Dr. Waqar Khan
 
-![HER_Project_Image]()
+![HER_Project_Image](https://github.com/michaelfrankl/FWPM-GD-HER/assets/126682182/fff2462a-4891-45c1-bdd8-93299e63422e)
+
 
 <seealso>
     <category ref="wrs">
